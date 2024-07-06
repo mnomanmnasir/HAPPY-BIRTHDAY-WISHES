@@ -396,13 +396,14 @@ body, html{
 	transform: translateY(-40%);
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	font-size:3.5em;
+	font-size:5em;
 	color:#fff;
 }
 
 .second--canvas .content h2{
 	position: relative;
 	margin:0;
+	font-size: 4rem;
 }
 
 .second--canvas .content h2:nth-child(1){
